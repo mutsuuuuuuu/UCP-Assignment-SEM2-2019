@@ -1,7 +1,7 @@
 # Tic Tac Toe Game
 ## As Part of Unix and C Programming Assignment 2019
 
-##To run
+## To run
 
 Before starting the program, it is recommended to apply the following command:
 ```makefile
