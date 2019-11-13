@@ -1,5 +1,5 @@
 # Tic Tac Toe Game
-** As Part of Unix and C Programming Assignment 2019 **
+**As Part of Unix and C Programming Assignment 2019**
 
 ## To Clone The Program
 
