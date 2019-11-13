@@ -1,6 +1,11 @@
 # Tic Tac Toe Game
 ## As Part of Unix and C Programming Assignment 2019
 
+## To Clone The Program
+
+To clone the program, run the following command:
+```git
+```
 ## To run
 
 Before starting the program, it is recommended to apply the following command:
@@ -26,6 +31,8 @@ The program will compile. To run the program
 FileName represent the file path and the file name. An example file is provided inside the repository.
 
 Follow the prompt outputted by the program. 
+
+
 
 ## Copyright
 © Mutsuuuuuuuuuuuuuuu 2019
