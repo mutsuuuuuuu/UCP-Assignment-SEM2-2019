@@ -5,6 +5,7 @@
 
 To clone the program, run the following command:
 ```git
+git clone https://github.com/mutsuuuuuuu/UCP-Assignment-SEM2-2019.git
 ```
 ## To run
 
