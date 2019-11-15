@@ -1,6 +1,5 @@
 /**
 FILENAME: READFILE.C
-CREATED BY:DICKY LARSON GULTOM 19487537
 PURPOSE: Reading from a file.
 GITHUB REPOSITORY : https://github.com/mutsuuuuuuu/UCP-Assignment-SEM2-2019
 **/
