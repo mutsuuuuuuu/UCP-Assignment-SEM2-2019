@@ -1,6 +1,5 @@
 /**
 FILENAME: TicTacToe.c
-CREATED BY:DICKY LARSON GULTOM 19487537
 PURPOSE: Holds the main function to run the program.
 GITHUB REPOSITORY : https://github.com/mutsuuuuuuu/UCP-Assignment-SEM2-2019
 **/
