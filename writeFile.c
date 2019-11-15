@@ -1,6 +1,5 @@
 /**
 FILENAME: writeFile.c
-CREATED BY:DICKY LARSON GULTOM 19487537
 PURPOSE: printing all of the contents inside the linked list to a file.
 GITHUB REPOSITORY : https://github.com/mutsuuuuuuu/UCP-Assignment-SEM2-2019
 **/
